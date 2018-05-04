@@ -1,4 +1,3 @@
-frutas do rubem:
-maça
+melancia branca
+banana
 uva
-pera
